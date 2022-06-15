@@ -1,2 +1,8 @@
 cache/
 out/
+
+.env
+.env.*
+
+.vscode/
+.DS_Store
