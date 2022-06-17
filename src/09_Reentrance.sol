@@ -39,7 +39,7 @@ interface IReentrance {
 }
 
 contract Burglar {
-    //
+    // 0xdcDcB51f2a472083DDf89a1c263c333Ed498d2A5
     IReentrance exploited;
     uint256 public stealAmount;
 
